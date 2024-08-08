@@ -134,6 +134,44 @@ Beginner Level
 
     40. Explain the concept of a common table expression (CTE).
 
+    1.What is a database?
+    2.What is an RDBMS (Relational Database Management System)?
+    3.What is normalization in databases?
+    4.Explain the different normal forms: 1NF, 2NF, and 3NF.
+    5.What are dependencies in the context of databases?
+    6.What is a partial dependency
+    7.What is a transitive dependency?
+    8.What are the different types of keys in a database?
+    9.What are transactions in a database?
+    10.What are the ACID properties in database transactions?
+    11. What is a sub-query in SQL?
+	12. Can you provide an example of a basic sub-query?
+	13. What are the types of subqueries?
+	14. What is the difference between a sub-query and a join?
+	15. Describe a scenario where a sub-query might be more advantageous than a join.
+	16. What are the limitations of using sub-queries in SQL?
+	17. Create a sub-query to list all departments with more than 10 employees
+    18. what is mssql and its use
+    19. explain curd operations with example
+    20. which are the different types of data types?
+    21. which are the mssql commands ?
+    22. how many relational operators and which are they?
+    23. what is DML?
+    24. what is the difference between drop and truncate?
+    25. What is a view in SQL?
+	26. How do you create a view in SQL?
+	27. What are the advantages of using views?
+	28. Explain the difference between a view and a table.
+	29. How do you modify an existing view?
+	30. Can you drop a view? If so, how?
+	31. What limitations exist when working with views?
+    32.Different types of aggregate functions?
+    33.Explain aggregators with examples?
+    34. Uses of the aggregators in SQL?
+    35.Explain joins in SQL
+    36.What are the different join conditions?
+    37.Differentiate between left and right joins?
+    38.Key differences between joins and aggregators?
 
     
 
